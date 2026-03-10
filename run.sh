@@ -20,11 +20,11 @@ do
     if [[ $file == *.py ]]; then
         output=$(python3 "$file")
 
-    elif [[ $file == *.R ]]; then
-        output=$(Rscript "$file")
-
     elif [[ $file == *.cpp ]]; then
         output=$(./program_exec)
+
+    elif [[ $file == *.js ]]; then
+        output=$(node "$file")
 
     else
         continue
