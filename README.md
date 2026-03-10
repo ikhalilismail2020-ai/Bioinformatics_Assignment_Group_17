@@ -16,7 +16,7 @@ This project demonstrates collaborative programming using GitHub. Each group mem
 
 ## Programming Languages Used
 - Python
-- R
+- Java
 - C++
 
 ## Areas of Interest
