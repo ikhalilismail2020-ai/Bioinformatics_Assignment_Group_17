@@ -10,9 +10,9 @@ Bioinformatics is an interdisciplinary field that combines biology, computer sci
 This project demonstrates collaborative programming using GitHub. Each group member implemented a script in a different programming language to print their personal details and area of interest in bioinformatics.
 
 ## Group Members
-- Ibrahim Khalil Isma'il
-- Muhammad Auwal Shehu
-- Khadija Hassan Garba
+- Ibrahim Khalil Isma'il_BASUG/UG/BMS/ANA/22/4276
+- Muhammad Auwal Shehu_BASUG/UG/BMS/ANA/22/5284
+- Khadija Hassan Garba_BASUG/UG/BMS/ANA/22/5869
 
 ## Programming Languages Used
 - Python
